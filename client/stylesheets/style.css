@@ -1,0 +1,19 @@
+/* CSS declarations go here */
+
+ul {
+  font-size: 18px;
+  height: 300px;
+  overflow: auto;
+  width: 300px;
+  border: 1px solid gray;
+  list-style-type: none;
+  padding: 5px;
+}
+
+ul#dragger {
+  background-color: #fcc;
+}
+
+ul#dropper {
+  background-color: #cfc;
+}
